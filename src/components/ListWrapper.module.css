@@ -1,0 +1,22 @@
+.ListWrapper{
+width: 45%;
+height: 75%;
+background-color: whitesmoke;
+}
+input {
+    width: 45%;
+    height: 30px;
+    outline:none
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-decoration: none;
+    list-style: none;
+    width: 50%;
+}
+buton{
+    width: 100%;
+    height: 100%;
+}
